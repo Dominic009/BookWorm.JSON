@@ -29,7 +29,7 @@
       "bookId": 3,
       "bookName": "1984",
       "author": "George Orwell",
-      "image": "https://www.dramaticpublishing.com/media/catalog/product/cache/1/image/300x436/9df78eab33525d08d6e5fb8d27136e95/t/o/to_kill_a_mockingbird_cover-t34.jpg",
+      "image": "../src/assets/Book3.png",
       "review": "A dystopian novel depicting a totalitarian regime.",
       "totalPages": 328,
       "rating": 4.7,
